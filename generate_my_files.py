@@ -1,11 +1,12 @@
 import os
 count = 0 
-with open('../large_files.py', 'w') as _files:
+#where are we going to write  the file and 'my_files' will be the name
+with open('C:/Users/nerina/Documents/GitHub/filesizes/my_files.py', 'w', encoding='utf-8', errors='ignore') as _files:#w means write
     _files.write('files = [\n')
 
-with open('../large_files.py', 'a') as _files:
+with open('C:/Users/nerina/Documents/GitHub/filesizes/my_files.py', 'a', encoding='utf-8', errors='ignore') as _files:#a means append
     
-    for root, directories, files in os.walk('/Users/nerina/Documents'):
+    for root, directories, files in os.walk('/Users/nerina/Documents'):# where we are going to search
         for _file in files:
             if count > 20:
                 break

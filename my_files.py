@@ -16,7 +16,7 @@ files = [
 ('/Users/nerina/Documents\Default.rdp', 0),
 ('/Users/nerina/Documents\desktop.ini', 402),
 ('/Users/nerina/Documents\fivegroupfunction.sql', 1725),
-('/Users/nerina/Documents\generate_large_files_original.py', 639),
+('/Users/nerina/Documents\generate_large_files_example.py', 639),
 ('/Users/nerina/Documents\incondition.sql', 564),
 ('/Users/nerina/Documents\lab1sql.sql', 1289),
 ('/Users/nerina/Documents\lab2sql.sql', 1559),
