@@ -1,4 +1,4 @@
-###traverse the files
+###Traverse the files
 import os
 count = 0 
 with open('C:/Users/nerina/Documents/GitHub/filesizes/my_files.py', 'w', encoding='utf-8', errors='ignore') as _files: #'w' means write

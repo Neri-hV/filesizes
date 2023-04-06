@@ -1,3 +1,4 @@
+#This is the file for homework
 import os
 count = 0 
 #where are we going to write  the file and 'my_files' will be the name
